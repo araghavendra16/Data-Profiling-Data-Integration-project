@@ -1,0 +1,619 @@
+commune_id,frazioni
+0,Casone del gaudio
+1,Campanina
+1,Cannetiello
+1,Fonte saraceno
+1,Frascinelle
+1,Iscalonga
+1,Mancone
+1,Marettima
+1,Marrota
+1,Mattine
+1,Muoio
+1,Palombe
+1,Picone
+1,Principe
+1,San biagio
+1,Santa maria
+1,Serpi
+1,Serra
+1,Stazione ogliastro
+1,Streppina
+1,Torre
+2,Borgo san cesareo
+2,Bosco
+2,Cerrina
+2,Forestelle
+2,Matinella
+2,San chirico
+2,San nicola
+2,Tempa delle guardie
+3,
+4,Borgo carillia
+4,Cerrelli
+4,Scalareta
+4,Cerrocupo
+5,Pogerola
+5,Lone
+5,Pastena
+6,
+7,Mainardi
+8,Marina
+8,Stanpella
+8,Mandia
+8,Catona
+8,Bosco
+8,Terradura
+8,Salice
+8,Piolo
+8,Vreccia
+8,Piano della torre
+8,Santa sofia
+8,Scrifo
+8,Pennino
+8,Casaline
+8,Santa maria
+8,Enotria
+8,Baia tirrena
+9,Atena lucana scalo
+9,San giuseppe
+9,Serrone
+10,
+11,Mattina
+11,Tempe di lizzi
+12,Antessano
+12,Caprecano
+12,Fusara
+12,Nocelleto
+13,Aversana
+13,Belvedere
+13,Fasanara
+13,Lago
+13,Padova
+13,San emilio
+13,Santa lucia inferiore
+13,Spineta
+13,Tavernola
+13,Verdesca
+13,Vivai
+14,Bivio-pratole
+14,Zona industriale-artigianale
+14,Bivio san vito
+14,Olmo
+14,Fabbrica nuova
+14,Serroni
+15,
+16,Casale
+16,San nazario
+17,Teglia
+17,Tufariello
+17,Pianelle
+17,San giovanni
+17,Temponi
+18,
+19,Calabri
+19,Fontana
+19,Caggiano l
+19,Mattina
+19,Mattina v
+19,Piedi l'arma
+20,Capo calvanico
+21,Lentiscosa
+21,Licusati e marina di camerota
+22,Camaldoli
+22,Galdo
+22,Mattinelle
+22,Puglietta
+22,Quadrivio
+22,Romandola-madonna del ponte
+22,Santa maria la nova
+22,Serradarce
+22,Castrullo
+22,San paolo
+22,Difesa maddalena
+22,Folcata
+22,Oppidi
+22,San zaccaria
+22,Vallegrini
+23,
+24,
+25,Cafasso/borgo nuovo
+25,Capaccio scalo
+25,Capo di fiume
+25,Gromola/foce sele
+25,Laura
+25,Paestum
+25,Ponte barizzo
+25,Rettifilo/vannulo
+25,Scigliati
+25,Spinazzo/varco cilentano
+25,Santa venere
+25,Seude
+25,Torre/licinella
+25,Vuccolo maiorano
+26,Acquavella
+26,Bivio di acquavella
+26,Casal velino marina
+26,Vallo scalo
+26,Verduzio
+27,Vallonsecco
+28,Battaglia
+28,Fortino
+29,
+30,Aiello
+30,Campomanfoli
+30,Castelluccio
+30,Cortedomini
+30,Fimiani
+30,Lanzara
+30,Santa croce
+30,Santa maria a favore
+30,Taverna/casalnuovo
+30,Torello
+30,Trivio
+30,Mercato san severino
+30,Nocera inferiore
+30,Roccapiemonte
+30,Sarno
+30,Siano
+31,
+32,Cosentini
+32,Serra
+33,Alano
+33,Lago
+33,Licosa
+33,Ogliastro marina
+33,San marco
+33,Santa maria
+33,Tresino
+33,Pietà
+33,Salvatore
+33,San pietro
+33,Località annunziata
+34,Pantana
+34,Velina
+35,Pendino
+35,Cupone
+36,Zana
+36,Serra
+37,Alessia
+37,Annunziata
+37,Arcara
+37,Casaburi-rotolo
+37,Castagneto
+37,Corpo di cava
+37,Croce
+37,Dupino
+37,Marini
+37,Passiano
+37,Pregiato
+37,San cesareo
+37,San pietro
+37,Sant'anna
+37,Sant'arcangelo
+37,Santa lucia
+37,Santa maria del rovo
+37,Santi quaranta
+38,Poderia
+39,Palinuro
+39,San nicola
+39,Foria
+39,San severino
+40,Massascusa metoio
+40,Petrosa
+40,San biase
+40,Santa barbara
+41,Fuenti
+42,Monte cicerale
+43,Bagni
+43,Bisigliano
+43,Collianello
+43,Macchia grande
+43,Macchia piccola
+43,San vittore
+43,Sasso
+43,Valle di raio
+43,San leonardo
+43,Pazzano
+44,Marina di conca
+45,
+46,Bagni forlenza
+46,Monte pruno
+46,Pruno sottano
+46,Tempa del corvo
+46,Vulpacchio
+46,Ponte mefita
+46,Serroni
+47,Montecito
+47,Casamola
+48,Carnale
+49,
+50,Casarsa
+50,Cioffi
+50,Corno d'oro
+50,Santa cecilia
+51,
+52,Bolano
+52,Canfora
+52,Carpineto
+52,Gaiano
+52,Lancusi
+52,Nocelleto
+52,Penta
+52,Pizzolano
+52,Settefichi
+52,Soccorso
+52,Villa
+53,San giacomo
+53,San michele
+53,Sant'elia
+54,Castinatelli
+54,Eremiti
+55,Prepezzano
+55,Sieti
+55,Malche
+55,Belvedere
+55,Sant'antonio
+56,Catelde
+56,Chiaravallisi
+56,Chieve
+56,Curti
+56,Curticelle
+56,Gaia
+56,Mercato
+56,Ornito
+56,Pozzarolo san giovanni
+56,Santa caterina
+56,Santa maria a vico
+56,Sardone
+56,Sovvieco
+56,Terravecchia
+56,Vassi
+57,Cardile
+58,San giuseppe terrone
+59,Capitello
+59,San cristoforo
+60,Archi
+60,Matonti
+60,San martino
+60,Casaliello
+60,Spinelli
+60,Vetrali
+61,Villa littorio
+61,Pruno
+62,
+63,Campo piano
+64,Corticelle
+64,Ponti rossi
+64,Rocca cilento
+64,Selva
+65,Capizzo
+65,Magliano nuovo
+65,Palazzo soccorso
+66,Erchie
+66,Ponteprimario
+66,San pietro
+66,Vecite
+67,Acigliano
+67,Acquarola
+67,Capocasale
+67,Carifi
+67,Ciorani
+67,Corticelle
+67,Costa
+67,Curteri
+67,Galdo di carifi
+67,Lombardi
+67,Monticelli di sopra
+67,Monticelli di sotto
+67,Oscato
+67,Ospizio
+67,Pandola
+67,Piazza del galdo
+67,Priscoli
+67,Sant'angelo
+67,Sant'eustachio
+67,San vincenzo
+67,Spiano
+67,Torello
+67,Valle
+68,Monte
+68,Torre
+68,Villamena
+69,Pellare
+70,Abatemarco
+70,Massicelle
+71,
+72,Agnone
+72,Case del conte
+72,Cosentini
+72,Fornelli
+72,Ortodonico
+72,Zoppi
+73,Pugliano
+73,Santa tecla
+73,Gallara e torello
+74,Chiarelli
+74,Cornea
+74,Ferrari
+74,Gauro
+74,Macchia
+74,Nuvola
+74,Occiano
+74,Martorano
+75,
+76,Renabianca
+76,Cessuta
+76,Magorno
+76,Montesano scalo
+76,Prato comune
+76,Tardiano renabianca
+77,Sicilì
+78,Caiano
+78,Cicalesi
+78,Mannara
+78,Montalbino
+78,Montevescovado
+78,Piedimonte
+78,San mauro
+78,Zeccagnuo
+79,Camerelle
+79,Casa milite
+79,Citola
+79,Croce malloni
+79,Iroma
+79,Materdomini
+79,Pareti
+79,Pecorari
+79,Pizzone
+79,Porta romana
+79,Pucciano
+79,San clemente
+79,San pietro
+79,Starza
+79,Taverne
+79,Uscioli
+79,Grotti
+80,
+81,Eredita
+81,Finocchito
+82,Ariano (sede comunale)
+82,Monticelli
+82,Salitto
+83,Casale
+83,Dogana
+83,Ponte olivetano
+83,Serroni
+84,Cerreta
+84,Pirolepre
+84,Pagliarole
+84,Omignano scalo
+85,Casino lebano
+85,Piano vetrale
+86,Bivio san vito
+86,Chiaie
+87,Ascolese
+87,Caizzano
+87,Cardogna
+87,Contrada principe
+87,Volta cammino
+87,Sterpone
+88,
+89,Bivio
+89,Perrazze
+89,Valle
+90,Capazano
+90,Capriglia
+90,Cologna
+90,Coperchia
+91,Camella
+91,Mercato cilento
+91,Vatoll
+92,Ostigliano
+92,Isca abbate
+93,Muraglione
+93,Scelzoni
+94,
+95,
+96,Acciaroli
+96,Cannicchio
+96,Celso
+96,Galdo
+96,Pioppi
+97,Cangito
+97,Cisterna
+97,Sant'antuono
+97,Tempio
+98,Acciaroli  cannicchio
+98,Celso
+98,Galdo
+98,Pioppi
+99,Faiano
+99,Corvinia
+99,La picciola
+99,Magazzeno
+99,Sant'antonio
+100,Montepertuso
+100,Nocelle
+101,Acquara
+101,Canneto
+101,Lago rosso
+101,Pescara
+101,Selva nera
+101,Terzo di mezzo
+102,Vettica maggiore
+102,Marina di praia
+103,Melino
+103,San giuliano
+104,Sambuco
+104,Castiglione
+104,Torello
+104,Lacco
+104,Casa rossa
+104,Pendolo
+104,Costa s.cosma s.trifone
+104,S.martino
+105,
+106,Carretiello
+106,Doglie
+106,Fonte
+106,Serra
+106,Tempalta
+107,Acquavena
+108,Casali
+108,San potito
+109,Rofranesi
+110,Carpenino
+110,Santa maria
+111,
+112,Rutino scalo
+113,
+114,Grecia
+114,Quattro querce
+114,San raffaele
+114,San rocco
+114,San sebastiano
+114,Sant'antonio
+114,Sant'eustacchio
+114,Santo leo
+114,Santo stefano
+114,Trinità
+114,Fondi
+115,Campo di mare
+115,Torre santa sabina
+115,Pantanagianni
+115,Campomarino
+115,San pietro
+115,San vito
+116,Case incarto
+116,Brignano superiore
+116,Lamia
+116,Case de rosa
+116,Fuorni
+116,Zona industriale
+116,Casa rocco d'amato
+116,San bartolomeo
+117,Destra-san marco
+117,Dovina
+117,Fontanelle- chiuse
+117,Scoria
+117,Taverna barone-san nicola
+117,Taverna di marco-don gregorio
+118,Campigliano
+118,Filetta
+118,Pezzano
+118,Vignale
+119,Bosco
+119,Scario
+120,Lavagne
+120,Teglia
+121,Monticelli
+121,Piedimonte
+121,Procuoio
+121,Trinità
+121,Chiusa
+121,Casa calce
+121,Roscigno
+122,
+123,Casalsoprano
+123,Casalsottano
+123,Mezzatorre
+124,San nazario
+125,Torre
+125,Scorzo
+125,San marzano
+126,Fontana vaglio
+127,Casatori
+127,Sciulia
+128,
+129,Madonna del carmine
+130,Orta loreto
+130,San lorenzo
+131,Lupinata
+131,Policastro bussentino
+131,Poria
+132,
+133,San donato
+133,Varivertola
+134,Timpone
+135,Episcopo
+135,Lavorata
+136,Varco notar ercole
+136,Silla
+136,Peglio
+136,San rocco
+136,Santa maria
+136,Caiazzano
+137,Bagni
+137,Contrada cappelle/ferrovia
+137,Mariconda
+137,Marra-zaffaranelli
+137,San vincenzo
+137,Sant'antonio vecchio
+137,Trentuno
+137,Ventotto
+137,San pietro
+138,Campidoglio
+138,Minuta
+138,Pontone
+138,San pietro
+138,Santa caterina
+139,Capograssi
+139,San teodoro
+140,Borgo san lazzaro
+140,Persano
+141,Casigliano
+141,Castagneta
+141,Felitto pino
+141,San magno cilento
+141,Santa lucia
+141,Valle
+142,
+143,Castelluccio
+143,Cosentino
+143,Galdo degli alburni
+143,Scorzo
+143,Terranova
+143,Zuppino
+144,Amalafede
+144,Droro
+144,Guarrazano
+144,San giovanni di stella cilento
+145,Gorga
+146,Pantano
+146,Piedimonte
+146,Prato perillo
+146,San marco
+147,Copersito
+147,Sant'antuono
+148,
+149,
+150,Caselle
+151,Campinola
+151,Capitignano
+151,Cesarano
+151,Corsano
+151,Figlino
+151,Gete
+151,Novella
+151,Paterno sant'arcangelo
+151,Paterno sant'elia
+151,Pietre
+151,Polvica
+151,Ponte
+151,Pucara
+152,
+153,Pruno
+154,Angellara
+154,Massa
+154,Pattano
+155,Madonnella
+155,Serra casigliano
+155,Contrada ortelle
+156,Villammare
+157,Àlbori
+157,Benincasa
+157,Dragonea
+157,Molina
+157,Raito
+157,Marina
